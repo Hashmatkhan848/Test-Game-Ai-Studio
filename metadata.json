@@ -1,0 +1,6 @@
+{
+  "name": "Galactic Rift",
+  "description": "A highly complex space combat RPG and roguelike. Navigate waves of scouts and dreadnought boss flagships, collect shards, and buy persistent power upgrades in the hangar workshop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
